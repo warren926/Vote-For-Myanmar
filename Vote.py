@@ -38,4 +38,4 @@ else:
   print ("Wrong Vote!!!")
   print("")
   print("")
-  os.system("python d.py")
+  os.system("python Vote.py")
